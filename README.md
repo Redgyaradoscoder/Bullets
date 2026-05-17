@@ -13,15 +13,6 @@ A minimal browser-based first-person shooter prototype built with Three.js.
 
 Because the game uses ES modules, start a local HTTP server from the project folder.
 
-### Using Python 3
-
-```powershell
-cd "c:\Users\David\Documents\Agentic Coding\Simple Shooter"
-python -m http.server 8080
-```
-
-Open `http://localhost:8080` in your browser.
-
 ### Using Node.js
 
 If you have Node.js installed, you can use a simple server package such as `http-server`.
